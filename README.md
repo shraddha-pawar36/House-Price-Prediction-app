@@ -16,8 +16,8 @@ This repository contains a web-based application built using **Dash** that predi
 ## Files and Directories
 
 1. **app.py** - Main script to run the Dash app.
-2. **model_training.py** - Script used to train the Linear Regression model and save it as a pickle file (`model.pkl`).
-3. **model.pkl** - Serialized Linear Regression model used for predictions.
+2. **model_training.py** - Script used to train the Linear Regression model and save it as a pickle file (`train.pkl`).
+3. **train.pkl** - Serialized Linear Regression model used for predictions.
 4. **USA_Housing.csv** - Dataset used to train the model.
 5. **Screenshots/** - Folder containing screenshots of the application interface.
 6. **requirements.txt** - List of required Python libraries to run the app.

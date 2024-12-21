@@ -90,6 +90,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 For any questions or suggestions, feel free to reach out:
-- Email: your-email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/yourusername)
+- Email: your- shradhapawar522@gmail.com
+- GitHub: https://github.com/shraddha-pawar36
 

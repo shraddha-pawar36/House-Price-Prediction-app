@@ -28,7 +28,7 @@ This repository contains a web-based application built using **Dash** that predi
 
 ### 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/repository-name.git
+gh repo clone shraddha-pawar36/House-Price-Prediction-app
 ```
 
 ### 2. Create a virtual environment (optional but recommended):
